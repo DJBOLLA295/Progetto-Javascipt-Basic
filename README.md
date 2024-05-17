@@ -21,4 +21,4 @@ Il tutto è stato abbellito con un pizzico di CSS
 
 Collega l'APP
 
-💥CONTATORE💥
+https://djbolla295.github.io/Progetto-Javascipt-Basic/
