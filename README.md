@@ -2,7 +2,8 @@
 Progetto Javascipt Basic
 
 
-![image](https://github.com/DJBOLLA295/ProgettoJavasciptBasic/assets/145054446/d9544546-8007-4516-bc03-8299634b578f)
+![image](https://github.com/DJBOLLA295/Progetto-Javascipt-Basic/assets/145054446/1d520b40-b38a-4709-bcfb-adedd1ca78bc)
+
 
 Le lingue
 
